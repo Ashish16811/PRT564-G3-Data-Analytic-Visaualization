@@ -1,0 +1,11 @@
+Metric,Value
+Mean CV R2 (Base Model),0.3359531484273252
+Mean CV R2 (Full Model),0.3359531484277592
+Std Dev CV R2 (Full Model),0.04548390420149778
+Range CV R2 (Full Model),0.124183805470787
+Hold-out R2,0.3334102257852395
+Paired t-statistic,0.31692766694663504
+Paired p-value,0.7671504807291418
+Large Error Threshold,1.2172020191734698
+Max Cook's Distance,
+Cook's Distance Threshold,0.0045045045045045045
